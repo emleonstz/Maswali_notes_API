@@ -1,0 +1,449 @@
+[
+{
+"ques" : "Watumiaji wa barabara wamegawanyika katika makundi makuu matatu, ambayo ni..?",
+"a" : "binadamu, Wanyama na magari",
+"b" : "binadamu, Wanyama na vyombo vya moto",
+"c" : "binadamu, pikiki na magari",
+"d" : "binadamu, magari ya abiria na mizigo",
+"ans" : "b"
+},
+
+{
+"ques" : "Ifuatayo ni mifumo na sehemu kuu za gari isipokua?",
+"a" : "Sehemu ya fremu ",
+"b" : "Sehemu ya injini",
+"c" : "Sehemu ya mfumo wa kupitisha mwendo",
+"d" : "Sehemu ya chasis ya Klachi  ",
+"ans" : "d"
+},
+
+{
+"ques" : "Aina za magari ni kama ifuatavyo isipokua?",
+"a" : "magari binafsi",
+"b" : "pikipiki",
+"c" : "magari ya mizigo",
+"d" : "magari ya biashara",
+"ans" : "c"
+},
+
+{
+"ques" : "dereva anapokuwa barabarani, anaendesha vyombo vikuu vitatu ambavyo  ni isipokua ",
+"a" : "chombo chako mwenyewe",
+"b" : "kilichopo nyuma",
+"c" : "kilichopo mbele",
+"d" : "kilichopo katikati",
+"ans" : "d"
+},
+
+{
+"ques" : "Vioo ambavyo humsaidia dereva kuona nyuma huitwa?",
+"a" : "kioo cha nyuma",
+"b" : "sight mirror",
+"c" : "Wind screen",
+"d" : "kioo cha mbele",
+"ans" : "b"
+},
+
+{
+"ques" : "Hupigwa na dereva wa gari au pikipiki wakati wa dharura",
+"a" : "kingo'ra",
+"b" : "Breki",
+"c" : "jeki",
+"d" : "Honi",
+"ans" : "d"
+},
+
+{
+"ques" : "Madereva tunashauriwa pindi tunapotambua hatari",
+"a" : "Tupige Honi kwa nguvu",
+"b" : "Tuwashe hendiketa zote",
+"c" : "kuwasha taa za gari",
+"d" : "Kushika Breki",
+"ans" : "d"
+},
+
+{
+"ques" : "Ipi sio kazi ya hendiketa ya kulia ?",
+"a" : "Kuashiria kuchepuka upande wa kulia",
+"b" : "Kutaka kuegesha / parking",
+"c" : "kuchepukia upande wa kushoto",
+"d" : "Kuashiria unalipita (overtake) gari lililoko mbele yako",
+"ans" : "c"
+},
+
+{
+"ques" : "huendesha kwa mbwembwe na maringo, pia kwenye kona anaongeza mwendokasi badala ya kupunguza,havai helmet ",
+"a" : "Dereva paka",
+"b" : "Dereva Kenge",
+"c" : "Dereva Nyoka",
+"d" : "Dereva Kinyonga",
+"ans" : "c"
+},
+
+{
+"ques" : "hizi hupigwa kama unakwenda mwendokasi kwa sababu maalum au polepole kwa sababu maalum",
+"a" : "Hazard hendiketa/ double hendiketa ",
+"b" : "Taa za mbele na nyuma ",
+"c" : "Hendiketa za kulia ",
+"d" : "Hendiketa za kushoto ",
+"ans" : "a"
+},
+{
+"ques" : "Nini kifannyike iwapo mwenzako atashindwa kupunguza mwanga ( kuwasha low)",
+"a" : "Washa double hendiketa",
+"b" : "piga honi kutoa taadhari",
+"c" : "simama na umwache aende",
+"d" : "zima taa za ndani ya gari",
+"ans" : "c"
+},
+
+{
+"ques" : "Kiwango cha uzito kinacho kadiriwa pikipiki kuweza kuhimili ni?",
+"a" : "75x2=150kg",
+"b" : "55x2=110kg",
+"c" : "130kg",
+"d" : "200kg",
+"ans" : "a"
+},
+
+{
+"ques" : "Daima kuendesha pikipiki ni hatari, unatakiwa kufanyakila mbinu ili kupunguza hatari hizo isipokua?",
+"a" : "kumudu mwendokasi",
+"b" : "kuendesha katikati upande kushoto mwa barabara",
+"c" : "kuwa na udereva wa kujihami",
+"d" : "kuendesha upande wa kushoto mwa barabra",
+"ans" : "b"
+},
+
+{
+"ques" : "Alama za Usalama Barabarani",
+"a" : "Huwekwa barabarani badala ya polisi ili vitoe Tahadhari, Amri, Taarifa na Maelekezo mbalimbali.",
+"b" : "Huwekwa barabarani badala ya polisi ili vitoe huduma ya Usalama",
+"c" : "Huwekwa barabarani badala ya polisi kufanya ulizi",
+"d" : "Ni picha na michoro inayo vutia barabarani",
+"ans" : "a"
+},
+
+{
+"ques" : "Huwekwa mita 50 kabla ya tukio kwenye barabara ya vumbi na mita 100 kabla ya tukio kwenye barabara ya lami.",
+"a" : "Alama za Amri",
+"b" : "Alama za onyo/Tahadhari",
+"c" : "Alama za Usuli na michuro juu ya sakafu ya Barabara ",
+"d" : "Alama za taarifa ",
+"ans" : "b"
+},
+
+{
+"ques" : "Zina umbo la Mistatiri au  Mraba",
+"a" : "Alama za Amri",
+"b" : "Alama za onyo/Tahadhari",
+"c" : "Alama za Maelekezo ",
+"d" : "Alama za taarifa",
+"ans" : "d"
+},
+
+{
+"ques" : "Vibao vyake huwekwa njia panda vikiwa na mishale ili kuelekeza usipotee njia ufikapo kwenye makutano",
+"a" : "Mabango",
+"b" : "Alama za Maelekezo",
+"c" : "Alama za taarifa",
+"d" : "Alama za Amri",
+"ans" : "b"
+},
+
+{
+"ques" : "Vibao ambavyo barabarani vina rangi zinzoakisi Mwanga kama vile nyeusi na njano, nyeusi na nyeupe na nyekundu.",
+"a" : "Alama za taarifa",
+"b" : "Alama za Amri",
+"c" : "Alama za onyo/Tahadhari",
+"d" : "Alama za usuli ",
+"ans" : "d"
+},
+
+{
+"ques" : "Ni mistari ilyo pembeni na katikati ya barabara, ikiwemo kivuko cha watembea kwa miguu",
+"a" : "Alama za Usuli ",
+"b" : "Alama za taarifa",
+"c" : "Michoro",
+"d" : "Alama za Maelekezo",
+"ans" : "a"
+},
+
+{
+"ques" : "Inashauriwa kwa watembea kwa miguu kupita upande gani wa barabara?",
+"a" : "kushoto",
+"b" : "kwenye mistari",
+"c" : "kulia",
+"d" : "katikati",
+"ans" : "c"
+},
+{
+"ques" : "Kabla ya kuvuka barabara mtembea kwa miguu anashauriwa",
+"a" : "Kuvuka kwa haraka kabla ya gari au pikipiki",
+"b" : "kuvuka kwa kukimbia",
+"c" : "Tafuata  sehem  salama ya kuvuka",
+"d" : "kusubiri askari wa Usalama barabarani",
+"ans" : "c"
+},
+
+{
+"ques" : "Waendesha baiskeli wanapswa kuendesha",
+"a" : "kwenye ukingngo wa kushoto pembezoni mwa barabara",
+"b" : "katikati ya barabara",
+"c" : "wasipite kwenye barabara za lami",
+"d" : "katika njia za watembea kwa miguu",
+"ans" : "a"
+},
+
+{
+"ques" : "Daima abiria anayetumia mabasi, daladala, teksi na pikipiki anapaswa",
+"a" : "Kumsumbua dereva kuendesha au kumzownga",
+"b" : "Shuka kwenye gari tu kwenye vituo vinavyotambulika pembeni mwa barabara",
+"c" : "Kumsumbua dereva kuendesha au kumzownga",
+"d" : "Kupanda kwenye gari linaloonekana kuwa bovu na limechakaa",
+"ans" : "b"
+},
+
+{
+"ques" : "Kabla hujafika kwenye barabara ya mzunguko hakikisha",
+"a" : "unajaiandaa kwa kona kali",
+"b" : "unaingia kwenye njia sahihi",
+"c" : "unaendesha kwa mwendo mmoja ",
+"d" : "unaendesha kwa kasi",
+"ans" : "b"
+},
+
+{
+"ques" : "Unatakiwa kufanya yafuatayo unapokua kwenye barabara ya mzunguko isipokua?",
+"a" : "Onyesha ishara ya unapoelekea",
+"b" : "kupunguza mwezndo",
+"c" : "kutizma kioo cha pembeni",
+"d" : "kuovertake kwenye mzunguko",
+"ans" : "d"
+},
+
+{
+"ques" : "Wakati unafuatilia gari lingine  wakati wa usiku unashauriwa?",
+"a" : "kumulika taa zako juu kwenye kioo cha aliyeko mbele",
+"b" : "kumulika katikati",
+"c" : "kumulika kwa mwanga mkubwa ",
+"d" : "kumulika chini",
+"ans" : "d"
+},
+
+{
+"ques" : "Ili kumlinda dereva mwingine wakati wa usiku inapaswa?",
+"a" : "kumulika taa juu",
+"b" : "kumulika chini",
+"c" : "kumulika katikati",
+"d" : "kuzima taa",
+"ans" : "b"
+},
+
+{
+"ques" : "Hupaswi kulipita gari jingine kama?",
+"a" : "Gari a mbele halijaanza kulipita gari jingine",
+"b" : "Kuna upenyo mkubwa wa kutosha mbele kulipita gari unalotaka kulipita",
+"c" : "Pale gari linalopitwa linahashiria kupinda kulia",
+"d" : "Gari  lililo  nyuma  halijaanza kulipita gari lako",
+"ans" : "c"
+},
+
+{
+"ques" : "Mstari wa katikati ya barabara unapochorwa kwa kukatika",
+"a" : "unaweza kuvuka ili kulipita gari jingine",
+"b" : "unaweza kuendesha katikati ya barabara",
+"c" : "unaweza kupinda pande zote",
+"d" : "Usivuke mstari huo",
+"ans" : "a"
+},
+
+{
+"ques" : "Mstari wa katikati ya barabara unapochorwa bila kukatika",
+"a" : "unaweza kuvuka ili kulipita gari jingine",
+"b" : "unaweza kupinda pande zote",
+"c" : "Usivuke mstari huo",
+"d" : "pinda kushoto",
+"ans" : "c"
+},
+//maswali 30
+{
+"ques" : "Iwapo  gari  linguine litakuwa linakupita unapaswa",
+"a" : "kuongeza mwendo usipitwe",
+"b" : "Elekea kushoto, punguza mwendo",
+"c" : "Endesha kwa mwendo mmoja",
+"d" : "tazama kioo cha pembeni",
+"ans" : "b"
+},
+
+{
+"ques" : "Daima unapolipita gari jingine unapaswa",
+"a" : "kulipita kwa kasi",
+"b" : "kulipita kwa upande wa kushoto ",
+"c" : "kulipita kwa upande wa kulia",
+"d" : "kuepuka kupita taratibu",
+"ans" : "c"
+},
+
+{
+"ques" : "Kugongana kwa maranyingi hutokea kwa kutochukua taadhari kaika",
+"a" : "sehemu zenye uwazi",
+"b" : "sehemu za makutano ya barabara",
+"c" : "sehemu zenye makazi ya watu",
+"d" : "sehemu z biashara",
+"ans" : "b"
+},
+
+{
+"ques" : "Moja kati zifutazo sio namna bora kuepuka ajali katika barabara zenye makutano",
+"a" : "ingia kwenye njia sahihi kwa wakati mzuri. ",
+"b" : "Fuata mishale inayoonyesha njia  ipi",
+"c" : "Iwapo kuna foleni mbele yako, jaribu kuivuka foleni hiyo",
+"d" : "Usibadili njia bila sababu ya msingi",
+"ans" : "c"
+},
+
+{
+"ques" : "Dereva anapaswa kuwajali watembea kwa miguu na watumiaji wengine maeneo ya vijijin kwani?",
+"a" : "hawajazoea barabara zenye magari",
+"b" : "Hawafahamu magari",
+"c" : "Hawafahamu barabara za lami",
+"d" : "Hawafahamu vyombo vya moto",
+"ans" : "a"
+},
+
+{
+"ques" : "Dereva ana shauriwa kuendesha kwa mwendo wa 30km kwa saa ua chini ya hapo iwapo?",
+"a" : "Kuna askari wa usama barabarani",
+"b" : "anahisi uchovu",
+"c" : "kuna dalili ya mvua",
+"d" : "kuna idadi kubwa ya watembea kwa mi  guu",
+"ans" : "d"
+},
+
+{
+"ques" : "Ni vibao ambavyo kuwekwa barabarani badala ya polisi ili vitoe Tahadhari, Amri, Taarifa na Maelekezo mbalimbali",
+"a" : "Alama za Maelekezo ",
+"b" : "Alama za asalama barabarani",
+"c" : "Alama za taarifa ",
+"d" : "Alama za onyo/ Tahadhari ",
+"ans" : "b"
+},
+
+{
+"ques" : "Moja kati ya mavazi muhimu kwa mwendesha pikipiki",
+"a" : "suruali ngumu",
+"b" : "miwani",
+"c" : "viatu vikubwa",
+"d" : "kofia ngumu",
+"ans" : "d"
+},
+
+{
+"ques" : "Ni maelekezo ambayo hutolewa na Afisa wa polisi kwa kutumia vitendo",
+"a" : "Taa za barabarani",
+"b" : "Alama za onyo",
+"c" : "Ishara za usalama barabarani",
+"d" : "Alama za Maelekezo",
+"ans" : "c"
+},
+
+{
+"ques" : "Ili kua dereva bora unapaswa",
+"a" : "kuwa na hasira kuhusu tabia ya dereva mwingine ",
+"b" : "Kuwa adhibu Madereva wanaovunja sheria",
+"c" : "kuwa na uvumilivu na Huruma",
+"d" : "kuendesha chombo kwa kasi",
+"ans" : "c"
+},
+//50
+{
+"ques" : "Inashauriwa usiendeshe gari endapo",
+"a" : "pakiwepo taa nyekundu katika dashibodi",
+"b" : "taa za dashibodi zikwa haziwaki",
+"c" : "taa za dashibodi zikiwa za kijani",
+"d" : "kama taa haziwaki",
+"ans" : "a"
+},
+
+{
+"ques" : "Mgawanyiko wa kundi la watumiaji wa barabara",
+"a" : "binadamu, Wanyama na vyombo vya moto",
+"b" : "Viumbe hai na vyombo vya moto",
+"c" : "vyombo vya moto na waongozaji wake",
+"d" : "pikipiki,magari na watu",
+"ans" : "a"
+},
+
+{
+"ques" : "Sehemu ya ubebaji wa mizigo katika (suspension) gari inahusisha",
+"a" : "tairi, spiringi na viti",
+"b" : "tairi, spiringi na shockbabsorber",
+"c" : "tairi, spiringi na buti",
+"d" : "buti, viti na bodi",
+"ans" : "b"
+},
+
+{
+"ques" : "Sehemu ya fremu katika gari lako inahusisha?",
+"a" : "chasis na bodi",
+"b" : "chanzo cha nguvu",
+"c" : "Gia za mwisho na difu",
+"d" : "Propera shafti",
+"ans" : "a"
+},
+
+{
+"ques" : "Kuna aina ngapi ya bima za gari?",
+"a" : "3",
+"b" : "4",
+"c" : "2",
+"d" : "5",
+"ans" : "a"
+},
+
+{
+"ques" : "Husaidia dereva kupunguza mwendo na kusimama",
+"a" : "Taa za barabarani",
+"b" : "Taa za gari",
+"c" : "Breki",
+"d" : "injini",
+"ans" : "c"
+},
+
+{
+"ques" : "Honi ya gari haitakiwi kupigwa sehemu zifuatatazo isipokua?",
+"a" : "Kivuko cha watembea kwa miguu",
+"b" : "Kanisani",
+"c" : "Mahakamani",
+"d" : "Majumbani",
+"ans" : "d"
+},
+
+{
+"ques" : "Hendiketa zimegawanjika katika makundi makuu ?",
+"a" : "matatu",
+"b" : "manne",
+"c" : "sita",
+"d" : "mawili",
+"ans" : "d"
+},
+
+{
+"ques" : "makundi makuu mawili ya hendiketa ni",
+"a" : "hendiketa za kushoto na kulia",
+"b" : "Hendiketa za Breki, kushoto na kulia",
+"c" : "Hendiketa za kati na pembeni",
+"d" : "Hendiketa za njano na nyekundu",
+"ans" : "a"
+},
+
+{
+"ques" : "Taa za gari zimegawanyika katika makundi mangapi?",
+"a" : "Moja",
+"b" : "sita",
+"c" : "mawili",
+"d" : "saba",
+"ans" : "c"
+}
+]
